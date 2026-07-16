@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Header Aesthetic -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=160&section=header&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=ADAM+AL+KHATIRI;ADAMDEVNOOB;%E2%9A%A1+SOFTWARE+ENGINEER+%E2%9A%A1" />
@@ -8,6 +9,7 @@
 
 <br/>
 
+<!-- Badges Info Minimalis -->
 <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/Location-Bogor%2C_ID-B892FF?style=flat-square&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/OS-Linux_Mint-7FFF00?style=flat-square&logo=linux-mint&logoColor=white&labelColor=0F0C29" />
@@ -73,6 +75,9 @@ Lu bisa mainin game JavaScript Canvas **Snake — Horned Devil** yang gua bikin 
 
 ### 🛠️ Tools & OS
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+
+### 🌌 Special Core
+<img src="https://img.shields.io/badge/Antigravity-Activated-00F7FF?style=for-the-badge&logo=spacex&logoColor=white&labelColor=0F0C29" />
 
 </div>
 
