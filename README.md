@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Header Aesthetic -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=160&section=header&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=ADAM+AL+KHATIRI;ADAMDEVNOOB;%E2%9A%A1+SOFTWARE+ENGINEER+%E2%9A%A1" />
@@ -9,7 +8,6 @@
 
 <br/>
 
-<!-- Badges Info Minimalis -->
 <img src="https://img.shields.io/badge/Status-Active-00F7FF?style=flat-square&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/Location-Bogor%2C_ID-B892FF?style=flat-square&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/OS-Linux_Mint-7FFF00?style=flat-square&logo=linux-mint&logoColor=white&labelColor=0F0C29" />
@@ -23,8 +21,8 @@
 
 Hey! Saya **Adam** (aka *Adamdevnoob*), seorang **Frontend Developer & UI/UX Designer** berumur 16 tahun yang berbasis di Bogor, Indonesia. Saat ini sedang menempuh pendidikan di **SMK INFOKOM** dan aktif ngulik ekosistem *open-source* lewat **Linux Mint** 🐧.
 
-*   🚀 **Fokus Saat Ini:** Memperdalam arsitektur **Laravel & PHP**, reactive UI dengan **React & Tailwind CSS**, serta penguatan konsep *Object-Oriented Programming* (OOP).
-*   🛡️ **Minat Sampingan:** Eksplorasi fundamental *Cyber Security* dan *ethical hacking*.
+* 🚀 **Fokus Saat Ini:** Memperdalam arsitektur **Laravel & PHP**, reactive UI dengan **React & Tailwind CSS**, serta penguatan konsep *Object-Oriented Programming* (OOP).
+* 🛡️ **Minat Sampingan:** Eksplorasi fundamental *Cyber Security* dan *ethical hacking*.
 
 > 💡 *"Building clean, fast, human-centered digital experiences — where logic meets creativity."*
 
@@ -53,27 +51,8 @@ Hey! Saya **Adam** (aka *Adamdevnoob*), seorang **Frontend Developer & UI/UX Des
 
 <div align="center">
 
-<!-- Primary Stack -->
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,firebase,java,cs,python,git,github,linux,figma,vscode&theme=dark" />
 
-</div>
-
----
-
-## ⌁ GITHUB ANALYTICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkaadam78-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F7FF&icon_color=B892FF&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkaadam78-source&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F7FF&fire=B892FF&currStreakLabel=00F7FF" width="49%" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alkaadam78-source&theme=tokyo-night&hide_border=true&bg_color=0F0C29&color=00F7FF&line=B892FF&point=ffffff" width="98%" />
-
-  <br/><br/>
-  
-  <!-- Contribution Snake Minimalist -->
-  <img src="https://raw.githubusercontent.com/alkaadam78-source/alkaadam78-source/output/github-contribution-grid-snake-dark.svg" width="80%">
 </div>
 
 ---
