@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=170&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=160&section=header&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=ADAM+AL+KHATIRI;ADAMDEVNOOB;%E2%9A%A1+SOFTWARE+ENGINEER+%E2%9A%A1" />
 
@@ -19,7 +19,7 @@
 
 ## ⌁ ABOUT ME
 
-Hey! Saya **Adam** (Adamdevnoob), seorang **Frontend Developer & UI/UX Designer** berumur 16 tahun yang berbasis di Bogor, Indonesia. Saat ini sedang menempuh pendidikan di **SMK INFOKOM** dan aktif ngulik ekosistem *open-source* lewat **Linux Mint** 🐧.
+Hey! Saya **Adam** (aka *Adamdevnoob*), seorang **Frontend Developer & UI/UX Designer** berumur 16 tahun yang berbasis di Bogor, Indonesia. Saat ini sedang menempuh pendidikan di **SMK INFOKOM** dan aktif ngulik ekosistem *open-source* lewat **Linux Mint** 🐧.
 
 * 🚀 **Fokus Saat Ini:** Memperdalam arsitektur **Laravel & PHP**, reactive UI dengan **React & Tailwind CSS**, serta penguatan konsep *Object-Oriented Programming* (OOP).
 * 🛡️ **Minat Sampingan:** Eksplorasi fundamental *Cyber Security* dan *ethical hacking*.
@@ -28,7 +28,7 @@ Hey! Saya **Adam** (Adamdevnoob), seorang **Frontend Developer & UI/UX Designer*
 
 ---
 
-## ⌁ FEATURED PORTFOLIO
+## ⌁ FEATURED PORTFOLIO & MINI GAME
 
 <div align="center">
 
@@ -45,13 +45,34 @@ Hey! Saya **Adam** (Adamdevnoob), seorang **Frontend Developer & UI/UX Designer*
 
 </div>
 
+<details>
+<summary><b>🕹️ KLIK DI SINI BUAT MAININ MINI GAME BUATAN GUA!</b></summary>
+<br/>
+
+Lu bisa mainin game JavaScript Canvas **Snake — Horned Devil** yang gua bikin langsung lewat browser tanpa perlu install apa-apa:
+
+👉 **[MAIN DATA SNAKE DI SINI](https://snakeoneclass.netlify.app/)** 👈
+
+> 💡 *Cara Main: Gunakan tombol navigasi di layar atau Arrow Key (Kiri/Kanan) di keyboard untuk mengendalikan ular dari kejaran musuh bertanduk.*
+</details>
+
 ---
 
 ## ⌁ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,mysql,firebase,java,cs,python,git,github,linux,figma,vscode&theme=dark" />
+### 💻 Frontend & UI/UX
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" />
+
+### ⚙️ Backend & Server Frameworks
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,cs,python&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark" />
+
+### 🛠️ Tools & OS
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 </div>
 
@@ -68,18 +89,5 @@ Hey! Saya **Adam** (Adamdevnoob), seorang **Frontend Developer & UI/UX Designer*
 
 <br/><br/>
 
----
-
-## 🎮 PLAY MY MINI GAME
-
-<details>
-<summary><b>🕹️ Klik di sini buat mainin game "Simple Snake — Horned Devil" buatan gua!</b></summary>
-<br/>
-
-Lu bisa mainin game JavaScript Canvas *Snake vs Horned Devil* yang gua bikin langsung lewat browser lu.
-
-[![Mainkan Game](https://img.shields.io/badge/PLAY-SNAKE_GAME-00F7FF?style=for-the-badge&logo=javascript&logoColor=black)](https://adamdevfrontend.netlify.app/snake) 
-*(Ganti URL ini dengan link halaman game lu di Netlify)*
-
-> 💡 **Cara Main:** Pake tombol arah **Kiri/Kanan** atau tombol di layar buat ngindarin musuh bertanduk!
-</details>
+```sql
+SELECT 'Keep Coding, Keep Improving' FROM dev;
