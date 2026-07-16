@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=220&section=header&text=ADAMDEVNOOB&fontSize=55&fontColor=00F7FF&fontAlignY=38&desc=SYSTEM.INITIALIZED_%7C_FRONTEND_%2F_LINUX_%2F_FULLSTACK&descAlignY=58&descSize=16&descColor=B892FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F7FF&height=180&section=header&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=90&lines=ADAMDEVNOOB;A%C2%B7D%C2%B7A%C2%B7M%C2%B7D%C2%B7E%C2%B7V%C2%B7N%C2%B7O%C2%B7O%C2%B7B;%E2%9A%A1+ADAMDEVNOOB+%E2%9A%A1" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=%3E+SOFTWARE_ENGINEERING_STUDENT;%3E+LINUX+MINT+%F0%9F%90%A7+USER;%3E+FRONTEND+%2B+UI%2FUX+DESIGNER;%3E+FUTURE+FULL-STACK+DEVELOPER" />
 
@@ -9,6 +11,8 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/LOCATION-BOGOR%2C_ID-B892FF?style=for-the-badge&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/OS-LINUX_MINT-7FFF00?style=for-the-badge&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/OS-UBUNTU-E95420?style=for-the-badge&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-FF003C?style=for-the-badge&labelColor=0F0C29" />
 
 </div>
 
@@ -16,34 +20,20 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## `//` ABOUT.exe
+## ⌁ ABOUT
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
-
-```yaml
-alias: Adamdevnoob
-role: Frontend Developer & UI/UX Designer
-studies: SMK INFOKOM
-location: Bogor, Indonesia
-os: Linux Mint 🐧
-focus:
-  - Laravel & PHP
-  - React & Tailwind
-  - OOP & Web Development
-mission: >
-  Building clean, fast, human-centered
-  digital experiences — where logic
-  meets creativity.
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
+<td width="30%" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" width="90"/>
+</td>
+<td width="70%">
 
-<sub>`root@adamdevnoob:~$ neofetch`</sub>
+**Adamdevnoob** — Frontend Developer & UI/UX Designer, 16 tahun, asal Bogor, Indonesia. Siswa **SMK INFOKOM**, pengguna setia **Linux Mint** 🐧.
+
+Fokus saat ini: **Laravel & PHP**, **React & Tailwind**, dan Object-Oriented Programming.
+
+*"Building clean, fast, human-centered digital experiences — where logic meets creativity."*
 
 </td>
 </tr>
@@ -51,7 +41,7 @@ mission: >
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## `//` PORTFOLIO.live
+## ⌁ PORTFOLIO
 
 <div align="center">
 
@@ -72,17 +62,23 @@ mission: >
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## `//` TECH_STACK.json
+## ⌁ TECH STACK
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,java,cs,python,git,github,linux,figma,mysql,firebase,vscode&theme=dark" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" title="Ubuntu"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" width="45" title="Linux Mint"/>
+<img src="https://img.shields.io/badge/-Cyber_Security-FF003C?style=flat-square&logo=hackthebox&logoColor=white" height="30" title="Cyber Security"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## `//` STATS.render
+## ⌁ STATS
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alkaadam78-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F7FF&icon_color=B892FF&text_color=ffffff" width="48%" />
@@ -97,11 +93,11 @@ mission: >
 <img src="https://raw.githubusercontent.com/alkaadam78-source/alkaadam78-source/output/github-contribution-grid-snake-dark.svg" width="90%">
 </div>
 
-> ⚙️ Butuh 1x setup GitHub Action di repo profile — bilang aja kalau mau gue buatin file `snake.yml`-nya.
+> ⚙️ Butuh 1x setup GitHub Action di repo profile (file `snake.yml` sudah disiapkan terpisah).
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## `//` CONNECT.sh
+## ⌁ CONNECT
 
 <div align="center">
 
@@ -117,109 +113,3 @@ mission: >
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" width="70" style="filter: drop-shadow(2px 0 0 #00F7FF) drop-shadow(-2px 0 0 #FF00E4); animation: glitch 1.2s infinite;" alt="Linux Mint Glitch Logo"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=800&pause=200&color=7FFF00&center=true&vCenter=true&width=500&lines=%F0%9F%90%A7+LINUX+MINT;%F0%9F%90%A7+L%CE%BFNUX+M%D0%86NT;%F0%9F%90%A7+LI%D0%9DUX+MINT;%F0%9F%90%A7+LINUX+MINT" alt="Linux Mint Glitch Text"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alkaadam78-source&label=Profile%20Views&color=00F7FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/alkaadam78-source?label=Followers&style=social" alt="followers" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=150&section=header&text=&fontSize=0" width="100%">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Student at **SMK INFOKOM**
-- 📍 Bogor, Indonesia
-- 🐧 Linux Mint User
-- 🌱 Learning **HTML, CSS, JavaScript, PHP, Laravel, Java, C#, Python**
-- 💡 Interested in Software Engineering & Web Development
-- 🎯 Goal: Become a **Full-Stack Software Developer**
-
----
-
-## 🚀 Current Focus
-
-- Laravel
-- PHP
-- Object-Oriented Programming (OOP)
-- Web Development
-- Git & GitHub
-- Problem Solving
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,cs,python,git,github,linux,vscode,mysql,firebase,nodejs" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkaadam78-source&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alkaadam78-source&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkaadam78-source&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alkaadam78-source&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alkaadam78-source/alkaadam78-source/output/github-contribution-grid-snake-dark.svg" width="90%">
-</p>
-
-> ⚙️ Snake animation ini butuh setup GitHub Action sekali di repo profile lo — caranya ada di bagian bawah, tinggal copy-paste.
-
----
-
-## 📂 Projects
-
-- 🌐 Personal Portfolio
-- 📚 Library Management System (Laravel)
-- 🛒 Point of Sale (POS)
-- 💻 School Programming Projects
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://instagram.com/adam.caelvly" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://github.com/alkaadam78-source" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
-<p align="center"><sub>a.k.a <b>Adamdevnoob</b> on GitHub</sub></p>
-
----
-
-<p align="center">
-  💙 <i>"Every line of code brings me one step closer to becoming a better developer."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=100&section=footer" width="100%">
-</p>
