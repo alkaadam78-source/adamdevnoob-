@@ -19,7 +19,7 @@
 
 ## ⌁ ABOUT ME
 
-Hey! Saya **Adam** (aka *Adamdevnoob*), seorang **Frontend Developer & UI/UX Designer** berumur 16 tahun yang berbasis di Bogor, Indonesia. Saat ini sedang menempuh pendidikan di **SMK INFOKOM** dan aktif ngulik ekosistem *open-source* lewat **Linux Mint** 🐧.
+Hey! Saya **Adam** (Adamdevnoob), seorang **Frontend Developer & UI/UX Designer** berumur 16 tahun yang berbasis di Bogor, Indonesia. Saat ini sedang menempuh pendidikan di **SMK INFOKOM** dan aktif ngulik ekosistem *open-source* lewat **Linux Mint** 🐧.
 
 * 🚀 **Fokus Saat Ini:** Memperdalam arsitektur **Laravel & PHP**, reactive UI dengan **React & Tailwind CSS**, serta penguatan konsep *Object-Oriented Programming* (OOP).
 * 🛡️ **Minat Sampingan:** Eksplorasi fundamental *Cyber Security* dan *ethical hacking*.
