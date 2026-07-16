@@ -60,6 +60,15 @@ Lu bisa mainin game JavaScript Canvas **Snake — Horned Devil** yang gua bikin 
 
 ---
 
+## 🌌 3D DIGITAL WORKSPACE
+
+<div align="center">
+  <!-- 3D Isometric Device Mockup Showcase -->
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112675975/275338902-14eb066d-3180-4bd2-bc66-e82cf76f3f0a.png" width="85%" alt="3D Setup Showcase" />
+</div>
+
+---
+
 ## ⌁ TECH STACK
 
 <div align="center">
