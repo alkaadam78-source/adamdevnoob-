@@ -70,3 +70,20 @@ Hey! Saya **Adam** (Adamdevnoob), seorang **Frontend Developer & UI/UX Designer*
 
 ```sql
 SELECT 'Keep Coding, Keep Improving' FROM dev;
+
+
+---
+
+## 🎮 PLAY MY MINI GAME
+
+<details>
+<summary><b>🕹️ Klik di sini buat mainin game "Simple Snake — Horned Devil" buatan gua!</b></summary>
+<br/>
+
+Lu bisa mainin game JavaScript Canvas *Snake vs Horned Devil* yang gua bikin langsung lewat browser lu.
+
+[![Mainkan Game](https://img.shields.io/badge/PLAY-SNAKE_GAME-00F7FF?style=for-the-badge&logo=javascript&logoColor=black)](https://adamdevfrontend.netlify.app/snake) 
+*(Ganti URL ini dengan link halaman game lu di Netlify)*
+
+> 💡 **Cara Main:** Pake tombol arah **Kiri/Kanan** atau tombol di layar buat ngindarin musuh bertanduk!
+</details>
