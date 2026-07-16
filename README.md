@@ -68,10 +68,6 @@ Hey! Saya **Adam** (Adamdevnoob), seorang **Frontend Developer & UI/UX Designer*
 
 <br/><br/>
 
-```sql
-SELECT 'Keep Coding, Keep Improving' FROM dev;
-
-
 ---
 
 ## 🎮 PLAY MY MINI GAME
