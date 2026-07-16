@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/LOCATION-BOGOR%2C_ID-B892FF?style=for-the-badge&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/OS-LINUX_MINT-7FFF00?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/OS-UBUNTU-E95420?style=for-the-badge&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/FOCUS-CYBER_SECURITY-FF003C?style=for-the-badge&labelColor=0F0C29" />
 
 </div>
@@ -70,8 +69,6 @@ Fokus saat ini: **Laravel & PHP**, **React & Tailwind**, dan Object-Oriented Pro
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" title="Ubuntu"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg" width="45" title="Linux Mint"/>
 <img src="https://img.shields.io/badge/-Cyber_Security-FF003C?style=flat-square&logo=hackthebox&logoColor=white" height="30" title="Cyber Security"/>
 
 </div>
